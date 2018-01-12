@@ -3,7 +3,7 @@ I always used a sleep timer calculation but I was lazy to always check on my pho
 
 ## Things you an say ( CURRENTLY TESTING ) 
 You can say: 
-- **( *What time should I wake up ?* ) **
+-  __( *What time should I wake up ?* )__
 
 ## Sample Conversation
 - *"Okay Google! Talk to Sleep Timer"*
